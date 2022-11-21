@@ -56,8 +56,8 @@ const mekanBilgisi = function (req, res) {
         ],
         "imkanlar":["Kahveler","Kurabiyeler","Pastalar"],
         "koordinatlar":{
-            "enlem":"37.78175551463006",
-            "boylam":"30.565071029913007"
+            "enlem":"37.8",
+            "boylam":"35.4"
         },
         "yorumlar":[
             {
