@@ -1,7 +1,7 @@
 # Mekanbul Rest Api Adresleri
 ---
 1. Girilen Konum Civarındaki Mekanları Listele
-![](resimler/Mekanlari%20Listele.png)
+![](resimler/Mekan%20Listele.png)
 
 2. Mekanid ile Mekan Bilgilerini Getir
 ![](resimler/Mekan%20Getir.png)
