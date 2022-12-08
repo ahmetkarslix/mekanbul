@@ -1,4 +1,4 @@
-# Mekanbul replit adresi
+# Mekanbul replit adresi (Odev8)
 [https://mekanbul.ahmetkarsli1.repl.co/?enlem=37.2&boylam=30.5](https://mekanbul.ahmetkarsli1.repl.co/?enlem=37.2&boylam=30.5)
 
 # Mekanbul Rest Api Adresleri
